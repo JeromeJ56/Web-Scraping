@@ -5,7 +5,7 @@
 Objective of this project is to collect data about a phone that is recently launched from https://www.gsmarena.com by using **Selenium**
 and **Beatifulsoup** packages and create a csv file from collected data.I have scraped some major features in the phone **Asus ROG Phone II ZS660KL**.
 
-## Requirements
+## Setup
 
 By using ***Python3.7*** and required packages are available in **requirements.txt** file you can insatll by using that file.
 
